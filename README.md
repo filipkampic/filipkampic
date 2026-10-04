@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Filip 👋
 
-<!--
-**filipkampic/filipkampic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Master's student at **FERIT Osijek**, focused on **software engineering** and building practical applications.
 
-Here are some ideas to get you started:
+### Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚽ **Football Scouting Analytics**
+
+A data-driven platform for football player scouting, statistical analysis and machine learning.
+
+### Selected projects
+
+**🧠 Mind Thrive**
+
+Android application developed as my master's thesis, focused on productivity, habits, goals and personal organization.
+
+**🏠 Roomie**
+
+A mobile application project built around practical everyday organization for roommates.
+
+**🃏 Bela Tracker**
+
+A mobile application for tracking Bela card game scores and managing matches.
+
+**💰 WorthIt**
+
+A software project focused on helping users evaluate whether a product is worth buying.
+
+**🚗 Car Damage Classification**
+
+A machine learning project for classifying car damage, with a Django backend.
+
+**📊 Premier League Visualization**
+
+A data visualization project exploring Premier League football statistics and presenting them through interactive visualizations.
+
+### Technologies
+
+**Languages:** Kotlin · Python · JavaScript
+
+**Development:** Android · Jetpack Compose · Django · Room · Firebase
+
+**Tools:** Git · GitHub · Docker
+
+### Education
+
+**University of Osijek — FERIT**
+Master's in Computer Science · Software Engineering
+2022–2027
+
+### Interests
+
+Software engineering · Data & ML · Football analytics
+
+Outside of tech: ⚽ Football · 🏋️ Fitness · 🎸 Guitar
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/filipkampic/)
