@@ -2,45 +2,25 @@
 
 I'm a Computer Science Master's student at **FERIT Osijek**, focused on **software engineering** and building practical applications.
 
-### Currently working on
-
-⚽ **Football Scouting Analytics**
-
-A data-driven platform for football player scouting, statistical analysis and machine learning.
-
 ### Selected projects
 
-**🧠 Mind Thrive**
+- **🧠 Mind Thrive** - student productivity & organization app
 
-Android application developed as my master's thesis, focused on productivity, habits, goals and personal organization.
+- **🏠 Roomie** - app for shared living & roommate organization
 
-**🏠 Roomie**
+- **🃏 Bela Tracker** - Bela score & match tracking
 
-A mobile application project built around practical everyday organization for roommates.
+- **💰 WorthIt** - product value evaluation
 
-**🃏 Bela Tracker**
+- **🚗 Car Damage Classification** - machine learning & Django
 
-A mobile application for tracking Bela card game scores and managing matches.
+- **📊 Premier League Visualization** - football data visualization
 
-**💰 WorthIt**
-
-A software project focused on helping users evaluate whether a product is worth buying.
-
-**🚗 Car Damage Classification**
-
-A machine learning project for classifying car damage, with a Django backend.
-
-**📊 Premier League Visualization**
-
-A data visualization project exploring Premier League football statistics and presenting them through interactive visualizations.
-
-### Technologies
+### Tech
 
 **Languages:** Kotlin · Python · JavaScript
 
 **Development:** Android · Jetpack Compose · Django · Room · Firebase
-
-**Tools:** Git · GitHub · Docker
 
 ### Education
 
